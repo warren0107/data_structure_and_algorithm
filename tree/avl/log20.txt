@@ -1,0 +1,307 @@
+node 0:11
+node 1:29
+node 2:52
+Rotate left:11, bf:-2
+node 3:48
+node 4:24
+node 5:17
+Rotate right:24, bf:1
+Rotate left:11, bf:-2
+node 6:30
+Rotate right:52, bf:2
+node 7:5
+node 8:37
+node 9:38
+Rotate left:30, bf:-2
+node 10:32
+Rotate right:48, bf:2
+node 11:25
+node 12:41
+node 13:38
+avl_insert:Element 38 already exist!
+node 14:57
+node 15:55
+Rotate right:57, bf:1
+Rotate left:52, bf:-2
+node 16:0
+Rotate right:11, bf:2
+node 17:40
+Rotate right:41, bf:1
+Rotate left:38, bf:-2
+node 18:51
+Rotate left:37, bf:-2
+node 19:18
+Tree to be dispaly:(root:29, height:5)
+node:0 height:1 bf:0
+node:5 height:2 bf:0
+node:11 height:1 bf:0
+node:17 height:3 bf:0
+node:18 height:1 bf:0
+node:24 height:2 bf:0
+node:25 height:1 bf:0
+node:29 height:5 bf:-1
+node:30 height:2 bf:-1
+node:32 height:1 bf:0
+node:37 height:3 bf:0
+node:38 height:1 bf:0
+node:40 height:2 bf:0
+node:41 height:1 bf:0
+node:48 height:4 bf:0
+node:51 height:1 bf:0
+node:52 height:2 bf:1
+node:55 height:3 bf:1
+node:57 height:1 bf:0
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:1, bf:0
+11:left_height:0, right_height:0, bf:0
+17:left_height:2, right_height:2, bf:0
+18:left_height:0, right_height:0, bf:0
+24:left_height:1, right_height:1, bf:0
+25:left_height:0, right_height:0, bf:0
+29:left_height:3, right_height:4, bf:-1
+30:left_height:0, right_height:1, bf:-1
+32:left_height:0, right_height:0, bf:0
+37:left_height:2, right_height:2, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:1, bf:0
+41:left_height:0, right_height:0, bf:0
+48:left_height:3, right_height:3, bf:0
+51:left_height:0, right_height:0, bf:0
+52:left_height:1, right_height:0, bf:1
+55:left_height:2, right_height:1, bf:1
+57:left_height:0, right_height:0, bf:0
+This is a avl tree!
+avl_del:Del 11
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:0, bf:1
+17:left_height:2, right_height:2, bf:0
+18:left_height:0, right_height:0, bf:0
+24:left_height:1, right_height:1, bf:0
+25:left_height:0, right_height:0, bf:0
+29:left_height:3, right_height:4, bf:-1
+30:left_height:0, right_height:1, bf:-1
+32:left_height:0, right_height:0, bf:0
+37:left_height:2, right_height:2, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:1, bf:0
+41:left_height:0, right_height:0, bf:0
+48:left_height:3, right_height:3, bf:0
+51:left_height:0, right_height:0, bf:0
+52:left_height:1, right_height:0, bf:1
+55:left_height:2, right_height:1, bf:1
+57:left_height:0, right_height:0, bf:0
+This is a avl tree!
+avl_del:Del 29
+right_most:25
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:0, bf:1
+17:left_height:2, right_height:2, bf:0
+18:left_height:0, right_height:0, bf:0
+24:left_height:1, right_height:0, bf:1
+25:left_height:3, right_height:4, bf:-1
+30:left_height:0, right_height:1, bf:-1
+32:left_height:0, right_height:0, bf:0
+37:left_height:2, right_height:2, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:1, bf:0
+41:left_height:0, right_height:0, bf:0
+48:left_height:3, right_height:3, bf:0
+51:left_height:0, right_height:0, bf:0
+52:left_height:1, right_height:0, bf:1
+55:left_height:2, right_height:1, bf:1
+57:left_height:0, right_height:0, bf:0
+This is a avl tree!
+avl_del:Del 52
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:0, bf:1
+17:left_height:2, right_height:2, bf:0
+18:left_height:0, right_height:0, bf:0
+24:left_height:1, right_height:0, bf:1
+25:left_height:3, right_height:4, bf:-1
+30:left_height:0, right_height:1, bf:-1
+32:left_height:0, right_height:0, bf:0
+37:left_height:2, right_height:2, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:1, bf:0
+41:left_height:0, right_height:0, bf:0
+48:left_height:3, right_height:2, bf:1
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is a avl tree!
+avl_del:Del 48
+right_most:41
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:0, bf:1
+17:left_height:2, right_height:2, bf:0
+18:left_height:0, right_height:0, bf:0
+24:left_height:1, right_height:0, bf:1
+25:left_height:3, right_height:4, bf:-1
+30:left_height:0, right_height:1, bf:-1
+32:left_height:0, right_height:0, bf:0
+37:left_height:2, right_height:2, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:0, bf:1
+41:left_height:3, right_height:2, bf:1
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is a avl tree!
+avl_del:Del 24
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:0, bf:1
+17:left_height:2, right_height:1, bf:1
+18:left_height:0, right_height:0, bf:0
+25:left_height:3, right_height:4, bf:-1
+30:left_height:0, right_height:1, bf:-1
+32:left_height:0, right_height:0, bf:0
+37:left_height:2, right_height:2, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:0, bf:1
+41:left_height:3, right_height:2, bf:1
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is a avl tree!
+avl_del:Del 17
+right_most:5
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:1, bf:0
+18:left_height:0, right_height:0, bf:0
+25:left_height:2, right_height:4, bf:-2
+30:left_height:0, right_height:1, bf:-1
+32:left_height:0, right_height:0, bf:0
+37:left_height:2, right_height:2, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:0, bf:1
+41:left_height:3, right_height:2, bf:1
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 30
+Rotate right:41, bf:1
+Rotate left:25, bf:-2
+0:left_height:0, right_height:0, bf:0
+5:left_height:1, right_height:1, bf:0
+18:left_height:0, right_height:0, bf:0
+25:left_height:2, right_height:1, bf:1
+32:left_height:0, right_height:0, bf:0
+37:left_height:3, right_height:3, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:0, bf:1
+41:left_height:2, right_height:2, bf:0
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 5
+right_most:0
+0:left_height:0, right_height:1, bf:-1
+18:left_height:0, right_height:0, bf:0
+25:left_height:2, right_height:1, bf:1
+32:left_height:0, right_height:0, bf:0
+37:left_height:3, right_height:3, bf:0
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:0, bf:1
+41:left_height:2, right_height:2, bf:0
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 37
+right_most:32
+Rotate left:0, bf:-1
+Rotate right:25, bf:2
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:1, bf:0
+25:left_height:0, right_height:0, bf:0
+32:left_height:2, right_height:3, bf:-1
+38:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:0, bf:1
+41:left_height:2, right_height:2, bf:0
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 38
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:1, bf:0
+25:left_height:0, right_height:0, bf:0
+32:left_height:2, right_height:3, bf:-1
+40:left_height:0, right_height:0, bf:0
+41:left_height:1, right_height:2, bf:-1
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 32
+right_most:25
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:0, bf:1
+25:left_height:2, right_height:3, bf:-1
+40:left_height:0, right_height:0, bf:0
+41:left_height:1, right_height:2, bf:-1
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 25
+right_most:18
+Rotate left:18, bf:-2
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:1, bf:0
+40:left_height:0, right_height:0, bf:0
+41:left_height:2, right_height:2, bf:0
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 41
+right_most:40
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:0, bf:1
+40:left_height:2, right_height:2, bf:0
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Element 38 does not exist!
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:0, bf:1
+40:left_height:2, right_height:2, bf:0
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:1, bf:0
+57:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 57
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:0, bf:1
+40:left_height:2, right_height:2, bf:0
+51:left_height:0, right_height:0, bf:0
+55:left_height:1, right_height:0, bf:1
+This is not a avl tree!
+avl_del:Del 55
+0:left_height:0, right_height:0, bf:0
+18:left_height:1, right_height:0, bf:1
+40:left_height:2, right_height:1, bf:1
+51:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 0
+18:left_height:0, right_height:0, bf:0
+40:left_height:1, right_height:1, bf:0
+51:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 40
+right_most:18
+18:left_height:0, right_height:1, bf:-1
+51:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 51
+18:left_height:0, right_height:0, bf:0
+This is not a avl tree!
+avl_del:Del 18
+calc_each_node_balance_factor:Null tree!
+This is not a avl tree!
+avl_check:Null tree!
+avl_destory:Null tree!
